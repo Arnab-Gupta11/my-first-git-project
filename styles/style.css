@@ -1,0 +1,12 @@
+img {
+  border: 1px solid blueviolet;
+}
+#main {
+  margin: auto;
+  width: 50%;
+  border: cadetblue 3px solid;
+  background-color: azure;
+}
+form {
+  padding: 20px;
+}
